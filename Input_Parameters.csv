@@ -1,0 +1,4 @@
+RunID,ModelName,NodeFile,SegmentFile,phi,phi_cs,delta,gamma,K,sigmav0,shearplane_param,shearplane_depth,shearplane_angle,n_node,n_step_max,n_iter_max,uext_inc0,uext_max,uext_factor_increase,uext_factor_decrease,uext_incmin,uext_incmax,solve_tolerance,SaveStep
+1,TengShearABSinSand,Input_Nodes.csv,Input_Segments_ABS_d=1600.csv,32,32,23.7,0.0000165,0.470080736,0.0027625,0.339623272,75,1.570796327,251,5000,25,1,50,1.2,0.8,0.005,1,1.00E-03,1
+2,TengShearABSinSand,Input_Nodes.csv,Input_Segments_ABS_d=3000.csv,32,32,23.7,0.0000165,0.470080736,0.0027625,0.339623272,75,1.570796327,251,5000,25,1,50,1.2,0.8,0.005,1,1.00E-03,1
+3,TengShearABSinSand,Input_Nodes.csv,Input_Segments_ABS_d=12000.csv,32,32,23.7,0.0000165,0.470080736,0.0027625,0.339623272,75,1.570796327,251,5000,25,1,50,1.2,0.8,0.005,1,1.00E-03,1
